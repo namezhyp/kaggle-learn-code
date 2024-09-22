@@ -1,0 +1,2 @@
+这个竞赛需要用notebook，所以直接在官网就做了
+https://www.kaggle.com/c/google-quest-challenge
